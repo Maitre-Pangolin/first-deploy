@@ -1,10 +1,15 @@
 # My first deploy
 
+Learned to deploy an app from **Heroku CLI** and directly from this **GitHub repo**.
+
+ Automatic deployement from a github remote branch can be set up linking heroku and github.
+
+Manual deployement from a remote branch linked hosted on heroku can be performed via heroku cli
+
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
 
-Playing around remote branches between heroku and github, exploring deploying path options
 
 ## Running Locally
 
