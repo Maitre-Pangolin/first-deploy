@@ -37,5 +37,6 @@ showTimes = () => {
   for (i = 0; i < times; i++) {
     result += i + " ";
   }
+  result += "Wow what an amazing output";
   return result;
 };
